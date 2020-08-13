@@ -6,8 +6,9 @@ String version=resource.getString("version");%>
 <%=version %>
 
 <html>
+<head>Sample Project</head>
 <body>
-<h2>Hello Maven!!</h2>
-<h2>Hello All</h2>
+<h1>Welcome</h1>
+<h2>Hello Everyone</h2>
 </body>
 </html>
